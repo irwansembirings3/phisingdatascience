@@ -1,4 +1,4 @@
-# Data Science 
+# Data Science  
 # Detecting Phishing Emails with NLP and AI
 Gunakan Spam Worlist diatas sebagai dataset 
 gunakan AI untuk memahami source code di file phising-detection
